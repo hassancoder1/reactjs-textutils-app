@@ -1,8 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c653b63b-8e4e-425e-b6e6-d9f5fd2ff2f5/deploy-status)](https://app.netlify.com/sites/hassancoder-reactjs-textutils-app/deploys)
 ### TextUtils - A Text Utility Web Application
 
 TextUtils is a versatile web application that provides a set of handy text manipulation and analysis tools. With TextUtils, you can easily perform a variety of text-related tasks, such as converting text to uppercase or lowercase, capitalizing text, removing extra spaces, finding and replacing text, and more. This application is built using React and designed with user-friendliness in mind.
 
-[Hosted on Github Pages](https://hassancoder1.github.io/reactjs-textutils-app/)
+[Hosted on Github Pages](https://hassancoder-reactjs-textutils-app.netlify.app/)
 
 ### Features
 
