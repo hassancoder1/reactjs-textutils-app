@@ -24,7 +24,7 @@ const About = ({ textColor, setProgress }) => {
       <br /><br />
       <p className='text-center'>Thank you for choosing TextUtils. Happy text editing!</p>
       <div className='text-center'>
-        <a href="https://github.com/hassancoder1/reactjs-textutils-app" target='_blank' rel="noreferrer" className='btn btn-warning'> Go to Github Repository</a>
+        <a href="https://github.com/hassancoder1/reactjs-textutils-app/" target='_blank' rel="noreferrer" className='btn btn-warning'> Go to Github Repository</a>
       </div>
 
       <br /><br /><br />
